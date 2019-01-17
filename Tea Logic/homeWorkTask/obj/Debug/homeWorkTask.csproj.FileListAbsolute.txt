@@ -1,0 +1,6 @@
+H:\My Documents\Visual Studio 2012\Projects\Week3\homeWorkTask\homeWorkTask\bin\Debug\homeWorkTask.exe.config
+H:\My Documents\Visual Studio 2012\Projects\Week3\homeWorkTask\homeWorkTask\bin\Debug\homeWorkTask.exe
+H:\My Documents\Visual Studio 2012\Projects\Week3\homeWorkTask\homeWorkTask\bin\Debug\homeWorkTask.pdb
+H:\My Documents\Visual Studio 2012\Projects\Week3\homeWorkTask\homeWorkTask\obj\Debug\homeWorkTask.csprojResolveAssemblyReference.cache
+H:\My Documents\Visual Studio 2012\Projects\Week3\homeWorkTask\homeWorkTask\obj\Debug\homeWorkTask.exe
+H:\My Documents\Visual Studio 2012\Projects\Week3\homeWorkTask\homeWorkTask\obj\Debug\homeWorkTask.pdb

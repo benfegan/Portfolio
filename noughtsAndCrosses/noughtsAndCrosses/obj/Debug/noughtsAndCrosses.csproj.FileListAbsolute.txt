@@ -1,0 +1,6 @@
+H:\My Documents\Visual Studio 2012\Projects\Week5\noughtsAndCrosses\noughtsAndCrosses\bin\Debug\noughtsAndCrosses.exe.config
+H:\My Documents\Visual Studio 2012\Projects\Week5\noughtsAndCrosses\noughtsAndCrosses\obj\Debug\noughtsAndCrosses.csprojResolveAssemblyReference.cache
+H:\My Documents\Visual Studio 2012\Projects\Week5\noughtsAndCrosses\noughtsAndCrosses\bin\Debug\noughtsAndCrosses.exe
+H:\My Documents\Visual Studio 2012\Projects\Week5\noughtsAndCrosses\noughtsAndCrosses\bin\Debug\noughtsAndCrosses.pdb
+H:\My Documents\Visual Studio 2012\Projects\Week5\noughtsAndCrosses\noughtsAndCrosses\obj\Debug\noughtsAndCrosses.exe
+H:\My Documents\Visual Studio 2012\Projects\Week5\noughtsAndCrosses\noughtsAndCrosses\obj\Debug\noughtsAndCrosses.pdb
