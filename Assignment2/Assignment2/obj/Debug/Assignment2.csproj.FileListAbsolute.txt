@@ -1,0 +1,13 @@
+C:\Users\Ben\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Ben\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Ben\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Menu.resources
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.PrintDirectory.resources
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.AddContact.resources
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.EditContact.resources
+C:\Users\Ben\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.DeleteContact.resources
